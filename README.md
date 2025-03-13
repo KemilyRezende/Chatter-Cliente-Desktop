@@ -33,6 +33,18 @@ A comunicação com o middleware é feita através do arquivo `rmiDesktopInterfa
 
 ## Visualização
 
+
+<p align="center">
+  <img src="https://github.com/KemilyRezende/Chatter-Cliente-Desktop/blob/main/telas/login.png" alt="Tela de login">
+</p>
+<p align="center"><em>Tela de login</em></p>
+
+<p align="center">
+  <img src="https://github.com/KemilyRezende/Chatter-Cliente-Desktop/blob/main/telas/chat.png" alt="Tela do chat">
+</p>
+<p align="center"><em>Tela do chat</em></p>
+
+
 ## Como executar
 
 Antes de iniciar, certifique-se de ter instalado:
