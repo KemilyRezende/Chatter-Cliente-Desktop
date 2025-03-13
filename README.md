@@ -5,7 +5,7 @@ Este projeto, desenvolvido na disciplina de Sistemas Distribuídos, implementa u
 Este repositório contém exclusivamente o código do **cliente Desktop**.
 
   - **Cliente Web**: [link para o repositório](https://github.com/KemilyRezende/Chatter)
-  - **Middleware**: [link para o repositório]
+  - **Middleware**: [link para o repositório](https://github.com/KemilyRezende/Chatter-Middleware)
 
 ## Sobre o Projeto
 
